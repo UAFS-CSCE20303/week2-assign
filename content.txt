@@ -1,0 +1,25 @@
+Web Systems Course Overview
+Welcome to CSCE 20303: Web Systems. This course introduces the foundational technologies used to build modern web applications, focusing on client-side markup, style, and server-side execution.
+
+[Image Placeholder: web-architecture.png - Description: Client-Server Architecture Diagram]
+
+Course Learning Objectives
+By the end of this semester, you will be able to:
+- Structure web documents using semantic HTML5.
+- Style and lay out web pages using CSS.
+- Build dynamic client-side applications with JavaScript.
+- Understand client-server architecture and HTTP request cycles.
+
+Weekly Topic Schedule
+Week 1 | Course Introduction & HTTP Basics | Reading: Ch. 1
+Week 2 | HTML5 Semantics & Internal CSS | Reading: Ch. 2-3
+Week 3 | CSS Box Model & Flexbox Layouts | Reading: Ch. 4
+Week 4 | Client-Side JavaScript Foundations | Reading: Ch. 5
+
+Important Note on Assignments
+Web development requires attention to detail. Always validate your HTML markup and test your pages across multiple browsers before submitting your work.
+
+Course Instructor
+Instructor: Prof. Joe Smith
+Office: Baldor Building, Room 204
+Contact: jsmith@college.edu
